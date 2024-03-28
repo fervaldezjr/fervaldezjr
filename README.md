@@ -51,5 +51,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Mac](https://img.shields.io/badge/-Mac-black?style=flat-square&logo=Mac)
-![vscode](https://img.shields.io/badge/-vscode-black?style=flat-square&logo=vscode)
+![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=vscode)
 ![intellij](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij)

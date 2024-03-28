@@ -1,5 +1,7 @@
 # Hi👋🏼 I'm Fervaldezjr🇦🇷
 
+- I'm currently working as a Backend Engineer at @iobuilders
+
 ## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fervaldezjr/)](https://www.linkedin.com/in/fervaldezjr/)

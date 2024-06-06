@@ -1,6 +1,6 @@
 # Hi👋🏼 I'm Fervaldezjr🇦🇷
 
-- 🧑🏽‍💻 I'm currently working as a Backend Engineer at [iobuilders](https://io.builders)
+- 🧑🏽‍💻 I'm currently working as a Product Engineer at [iobuilders](https://io.builders)
 
 ## Connect with me:
 

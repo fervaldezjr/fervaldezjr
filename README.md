@@ -4,7 +4,7 @@
 - 🧑🏽‍💻 I'm currently working as a Product Engineer at [iobuilders](https://io.builders)
 
 <div align="start">
-    📊 Stats: <img src="https://komarev.com/ghpvc/?username=fervaldezjr&style=plastic&color=red" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=fervaldezjr&style=plastic&color=red" alt=""/>
 </div>
 
 ## Connect with me:

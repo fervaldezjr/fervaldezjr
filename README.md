@@ -2,6 +2,13 @@
 
 - 🧑🏽‍💻 I'm currently working as a Product Engineer at [iobuilders](https://io.builders)
 
+---
+
+<h3 align="left">📊 Stats:</h3>
+<div align="start">
+    <img src="https://komarev.com/ghpvc/?username=fervaldezjr&style=plastic&color=red" alt=""/>
+</div>
+
 ## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fervaldezjr/)](https://www.linkedin.com/in/fervaldezjr/)

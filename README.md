@@ -1,12 +1,10 @@
-# Hi👋🏼 I'm Fervaldezjr🇦🇷
+# Hi there! I'm Fernando Valdez 🇦🇷
 
+- 📍 Based in Barcelona
 - 🧑🏽‍💻 I'm currently working as a Product Engineer at [iobuilders](https://io.builders)
 
----
-
-<h3 align="left">📊 Stats:</h3>
 <div align="start">
-    <img src="https://komarev.com/ghpvc/?username=fervaldezjr&style=plastic&color=red" alt=""/>
+    📊 Stats: <img src="https://komarev.com/ghpvc/?username=fervaldezjr&style=plastic&color=red" alt=""/>
 </div>
 
 ## Connect with me:

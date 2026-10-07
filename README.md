@@ -1,62 +1,28 @@
-# Hi there! I'm Fernando Valdez 🇦🇷
+<img src="header.svg" alt="Fernando Valdez. AI software engineer in Barcelona, founder of Futer." width="100%">
 
-- 📍 Based in Barcelona
-- 🧑🏽‍💻 I'm currently working as a Product Engineer at [iobuilders](https://io.builders)
+By day I put AI agents to work on a regulated platform at [ioBuilders](https://io.builders), and they cannot change anything without a person. By night I build [Futer](https://thefuter.com) and [Luckybites](https://luckybites.io). Both are live.
 
-<div align="start">
-    <img src="https://komarev.com/ghpvc/?username=fervaldezjr&style=plastic&color=red" alt=""/>
-</div>
+### Now
 
-## Connect with me:
+**Futer** organises amateur football. Find a match nearby, join in one tap, get teams balanced by rating. Piloting in Barcelona. I'm looking for a co-founder to own community and growth.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fervaldezjr/)](https://www.linkedin.com/in/fervaldezjr/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fervaldezjr/)](https://medium.com/@fervaldezjr)
-[![Twitter Badge](https://img.shields.io/badge/-Follow%20me%20on%20X-black?style=flat-square&labelColor=black&logo=x&link=https://twitter.com/fervaldezjr)](https://twitter.com/fervaldezjr)
-[![Gmail Badge](https://img.shields.io/badge/-Send%20me%20an%20email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fervaldezjr11@gmail.com)](mailto:fervaldezjr11@gmail.com)
+**Luckybites** is restaurant promos across Barcelona. Diners claim deals at partner venues and earn points for reviews. I'm the co-founder.
 
-## Languages and Tools:
+**ioBuilders** is Groovy, Java 21 and Micronaut on a digital trust platform for the legal sector, plus the agents that triage incidents and review merge requests.
 
-### Backend
+### Worth your time
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Groovy](https://img.shields.io/badge/-Groovy-black?style=flat-square&logo=groovy)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Nodejs)
+**[agent-ops](https://github.com/fervaldezjr/agent-ops)**: read-only Claude Code skills and a shared standards corpus for backend teams in production. The pattern my team runs, open sourced.
 
-### Frontend
+**[The agents on my team cannot change anything](https://www.ferlogs.com/writing/read-only-agents)**: the write-up behind it. 7 min read.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React%20Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=React)
+### Stack
 
-### Testing
+**By day:** Groovy, Java 21, Micronaut, RabbitMQ, PostgreSQL, Kubernetes, ArgoCD
+**By night:** TypeScript, Next.js, NestJS, Supabase
 
-![Spock](https://img.shields.io/badge/-Spock%20Framework-black?style=flat-square&logo=Spock)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
-![Testing%20Library](https://img.shields.io/badge/-Testing%20Library-black?style=flat-square&logo=Testing%20Library)
-![K6](https://img.shields.io/badge/-K6-black?style=flat-square&logo=k6)
+Hexagonal architecture, DDD and TDD. Boring tools where it counts, novelty spent on the product.
 
-### Infraestructure
+### Find me
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-black?style=flat-square&logo=ArgoCD)
-![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=Grafana)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-
-### Control Version
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-### Tools
-
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Mac](https://img.shields.io/badge/-Mac-black?style=flat-square&logo=Mac)
-![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=vscode)
-![intellij](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij)
+[ferlogs.com](https://ferlogs.com) · [X @ferlogs_](https://x.com/ferlogs_) · [LinkedIn](https://www.linkedin.com/in/fervaldezjr/) · [CV](https://www.ferlogs.com/cv.pdf) · hi@ferlogs.com

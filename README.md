@@ -19,6 +19,7 @@ By day I put AI agents to work on a regulated platform at [ioBuilders](https://i
 ### Stack
 
 **By day:** Groovy, Java 21, Micronaut, RabbitMQ, PostgreSQL, Kubernetes, ArgoCD
+
 **By night:** TypeScript, Next.js, NestJS, Supabase
 
 Hexagonal architecture, DDD and TDD. Boring tools where it counts, novelty spent on the product.
